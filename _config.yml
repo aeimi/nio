@@ -1,3 +1,3 @@
 redirects:
-#  - subdomain: "d"
+  - subdomain: "d"
     to: "https://n.noia.pl"
